@@ -22,7 +22,7 @@ var friendsData = [
     },
     {
         "name": "Alice Wonderland",
-        "photo": "https://static.wikia.nocookie.net/disney/images/7/75/Profile_-_Alice.jpeg/revision/latest?cb=20190312054522",
+        "photo": "https://static.wikia.nocookie.net/disney/images/7/75/Profile_-_Alice.jpeg",
         "scores": [
             1,
             3,
